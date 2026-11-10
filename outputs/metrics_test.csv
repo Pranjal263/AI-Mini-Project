@@ -1,0 +1,3 @@
+,R2,RMSE_usd,MAE_usd
+Simple linear regression (RAM only),0.048,404.878,234.711
+Multiple linear regression (all features),0.562,274.642,157.813
